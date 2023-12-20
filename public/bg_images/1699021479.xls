@@ -1,0 +1,2713 @@
+<table border="1"><tr>
+    <th>TemplateType=fptcustom</th>
+    <th>Version=2023.0719</th>
+    <th>TemplateSignature=T0ZGSUNFX1BST0RVQ1RT</th>
+    <th>The top 3 rows are for Amazon.com use only. Do not modify or delete the top 3 rows.</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th>Images</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th>Variation</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th>Basic</th>
+    <th></th>
+    <th></th>
+    <th>Discovery</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th>Dimensions</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th>Fulfillment</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th>Compliance</th>
+    <th></th>
+    <th></th>
+    <th></th>
+	<th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th>Offer</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th>B2B</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+</tr>
+<tr>
+    <th>Product Type</th>
+    <th>Seller SKU</th>
+    <th>Brand Name</th>
+    <th>Product ID</th>
+    <th>Product ID Type</th>
+    <th>Product Name</th>
+    <th>Manufacturer</th>
+    <th>Manufacturer Part Number</th>
+    <th>Category (item-type)</th>
+    <th>Standard Price</th>
+    <th>Quantity</th>
+	<th>Is Product Expirable</th>
+    <th>Main Image URL</th>
+    <th>Other Image URL1</th>
+    <th>Other Image URL2</th>
+    <th>Other Image URL3</th>
+    <th>Other Image URL4</th>
+    <th>Other Image URL5</th>
+    <th>Other Image URL6</th>
+    <th>Other Image URL7</th>
+    <th>Other Image URL8</th>
+    <th>Parentage</th>
+    <th>Parent SKU</th>
+    <th>Relationship Type</th>
+    <th>Variation Theme</th>
+    <th>Update Delete</th>
+    <th>Product Description</th>
+    <th>Model Number</th>
+    <th>Key Product Features</th>
+    <th>Key Product Features</th>
+    <th>Key Product Features</th>
+    <th>Key Product Features</th>
+    <th>Key Product Features</th>
+    <th>Intended Use</th>
+    <th>Target Audience</th>
+    <th>Other Attributes</th>
+    <th>Subject Matter</th>
+    <th>Catalog Number</th>
+    <th>Color</th>
+    <th>Color Map</th>
+    <th>Search Terms</th>
+    <th>Platinum Keywords</th>
+    <th>Platinum Keywords</th>
+    <th>Platinum Keywords</th>
+    <th>Platinum Keywords</th>
+    <th>Platinum Keywords</th>
+    <th>Material Type</th>
+    <th>Size</th>
+    <th>Shaft Style Type</th>
+    <th>Item Height</th>
+    <th>Item Length</th>
+    <th>Item Width</th>
+    <th>Website Shipping Weight Unit Of Measure</th>
+    <th>Shipping Weight</th>
+    <th>Maximum Expandable Size</th>
+    <th>Maximum Size Unit Of Measure</th>
+    <th>Line Size</th>
+    <th>Line Size Unit Of Measure</th>
+    <th>paper-size</th>
+    <th>Paper Size Unit of Measure</th>
+    <th>Size Map</th>
+    <th>Item Dimensions Unit Of Measure</th>
+    <th>Package Length</th>
+    <th>Package Weight Unit Of Measure</th>
+    <th>Package Height</th>
+    <th>Package Width</th>
+    <th>Package Weight</th>
+    <th>Fulfillment Center ID</th>
+    <th>Package Dimensions Unit Of Measure</th>
+    <th>Cpsia Warning</th>
+    <th>CPSIA Warning Description</th>
+	<th>Is the Item Heat Sensitive?</th>
+    <th>item_weight_unit_of_measure</th>
+    <th>Item Weight</th>
+    <th>Fabric Type</th>
+    <th>import_designation</th>
+    <th>Is this product a battery or does it utilize batteries?</th>
+    <th>Batteries are Included</th>
+    <th>Battery composition</th>
+    <th>Battery type/size</th>
+    <th>Battery type/size</th>
+    <th>Battery type/size</th>
+    <th>Number of batteries</th>
+    <th>Number of batteries</th>
+    <th>Number of batteries</th>
+    <th>Battery weight (grams)</th>
+    <th>battery_weight_unit_of_measure</th>
+    <th>Number of Lithium Metal Cells</th>
+    <th>Number of Lithium-ion Cells</th>
+    <th>Lithium Battery Packaging</th>
+    <th>Watt hours per battery</th>
+    <th>lithium_battery_energy_content_unit_of_measure</th>
+    <th>Lithium content (grams)</th>
+    <th>lithium_battery_weight_unit_of_measure</th>
+    <th>Applicable Dangerous Goods Regulations</th>
+    <th>Applicable Dangerous Goods Regulations</th>
+    <th>Applicable Dangerous Goods Regulations</th>
+    <th>Applicable Dangerous Goods Regulations</th>
+    <th>Applicable Dangerous Goods Regulations</th>
+    <th>UN number</th>
+    <th>Safety Data Sheet (SDS) URL</th>
+    <th>Volume</th>
+    <th>item_volume_unit_of_measure</th>
+    <th>Country/Region of Origin</th>
+    <th>legal_compliance_certification_expiration_date</th>
+    <th>Flash point (°C)?</th>
+    <th>Manufacturer Warranty Description</th>
+    <th>legal_compliance_certification_date_of_issue</th>
+    <th>external_testing_certification1</th>
+    <th>external_testing_certification2</th>
+    <th>external_testing_certification3</th>
+    <th>external_testing_certification4</th>
+    <th>external_testing_certification5</th>
+    <th>external_testing_certification6</th>
+    <th>legal_compliance_certification_metadata</th>
+    <th>Categorization/GHS pictograms (select all that apply)</th>
+    <th>Categorization/GHS pictograms (select all that apply)</th>
+    <th>Categorization/GHS pictograms (select all that apply)</th>
+    <th>California Proposition 65 Warning Type</th>
+    <th>California Proposition 65 Chemical Names</th>
+    <th>Additional Chemical Name1</th>
+    <th>Additional Chemical Name2</th>
+    <th>Additional Chemical Name3</th>
+    <th>Additional Chemical Name4</th>
+    <th>Shipping-Template</th>
+    <th>Product Tax Code</th>
+    <th>Launch Date</th>
+    <th>Stop Selling Date</th>
+    <th>Is Gift Wrap Available</th>
+    <th>Offering Can Be Gift Messaged</th>
+    <th>Package Quantity</th>
+    <th>Sale Price</th>
+    <th>Manufacturers Suggested Retail Price</th>
+    <th>Sale Start Date</th>
+    <th>Handling Time</th>
+    <th>Release Date</th>
+    <th>Restock Date</th>
+    <th>Max Aggregate Ship Quantity</th>
+    <th>Sale End Date</th>
+    <th>Is Discontinued by Manufacturer</th>
+    <th>Max Order Quantity</th>
+    <th>Number of Items</th>
+    <th>Offering Release Date</th>
+    <th>Business Price</th>
+    <th>Quantity Price Type</th>
+    <th>Quantity Lower Bound 1</th>
+    <th>Quantity Price 1</th>
+    <th>Quantity Lower Bound 2</th>
+    <th>Quantity Price 2</th>
+    <th>Quantity Lower Bound 3</th>
+    <th>Quantity Price 3</th>
+    <th>Quantity Lower Bound 4</th>
+    <th>Quantity Price 4</th>
+    <th>Quantity Lower Bound 5</th>
+    <th>Quantity Price 5</th>
+    <th>National Stock Number</th>
+    <th>United Nations Standard Products and Services Code</th>
+    <th>Pricing Action</th>
+</tr>
+<tr>
+    <th>feed_product_type</th>
+    <th>sku</th>
+    <th>brand_name</th>
+    <th>external_product_id</th>
+    <th>external_product_id_type</th>
+    <th>item_name</th>
+    <th>manufacturer</th>
+    <th>part_number</th>
+    <th>item_type</th>
+    <th>price</th>
+    <th>quantity</th>
+	<th>is_expiration_dated_product</th>
+    <th>main_image_url</th>
+    <th>other_image_url1</th>
+    <th>other_image_url2</th>
+    <th>other_image_url3</th>
+    <th>other_image_url4</th>
+    <th>other_image_url5</th>
+    <th>other_image_url6</th>
+    <th>other_image_url7</th>
+    <th>other_image_url8</th>
+    <th>parent_child</th>
+    <th>parent_sku</th>
+    <th>relationship_type</th>
+    <th>variation_theme</th>
+    <th>update_delete</th>
+    <th>product_description</th>
+    <th>model</th>
+    <th>bullet_point1</th>
+    <th>bullet_point2</th>
+    <th>bullet_point3</th>
+    <th>bullet_point4</th>
+    <th>bullet_point5</th>
+    <th>specific_uses_keywords</th>
+    <th>target_audience_keywords</th>
+    <th>thesaurus_attribute_keywords</th>
+    <th>thesaurus_subject_keywords</th>
+    <th>catalog_number</th>
+    <th>color_name</th>
+    <th>color_map</th>
+    <th>generic_keywords</th>
+    <th>platinum_keywords1</th>
+    <th>platinum_keywords2</th>
+    <th>platinum_keywords3</th>
+    <th>platinum_keywords4</th>
+    <th>platinum_keywords5</th>
+    <th>material_type</th>
+    <th>size_name</th>
+    <th>shaft_style_type</th>
+    <th>item_height</th>
+    <th>item_length</th>
+    <th>item_width</th>
+    <th>website_shipping_weight_unit_of_measure</th>
+    <th>website_shipping_weight</th>
+    <th>maximum_size</th>
+    <th>maximum_size_unit_of_measure</th>
+    <th>line_size</th>
+    <th>line_size_unit_of_measure</th>
+    <th>paper_size</th>
+    <th>paper_size_unit_of_measure</th>
+    <th>size_map</th>
+    <th>item_dimensions_unit_of_measure</th>
+    <th>package_length</th>
+    <th>package_weight_unit_of_measure</th>
+    <th>package_height</th>
+    <th>package_width</th>
+    <th>package_weight</th>
+    <th>fulfillment_center_id</th>
+    <th>package_dimensions_unit_of_measure</th>
+    <th>cpsia_cautionary_statement</th>
+    <th>cpsia_cautionary_description</th>
+	<th>is_heat_sensitive</th>
+    <th>item_weight_unit_of_measure</th>
+    <th>item_weight</th>
+    <th>fabric_type</th>
+    <th>import_designation</th>
+    <th>batteries_required</th>
+    <th>are_batteries_included</th>
+    <th>battery_cell_composition</th>
+    <th>battery_type1</th>
+    <th>battery_type2</th>
+    <th>battery_type3</th>
+    <th>number_of_batteries1</th>
+    <th>number_of_batteries2</th>
+    <th>number_of_batteries3</th>
+    <th>battery_weight</th>
+    <th>battery_weight_unit_of_measure</th>
+    <th>number_of_lithium_metal_cells</th>
+    <th>number_of_lithium_ion_cells</th>
+    <th>lithium_battery_packaging</th>
+    <th>lithium_battery_energy_content</th>
+    <th>lithium_battery_energy_content_unit_of_measure</th>
+    <th>lithium_battery_weight</th>
+    <th>lithium_battery_weight_unit_of_measure</th>
+    <th>supplier_declared_dg_hz_regulation1</th>
+    <th>supplier_declared_dg_hz_regulation2</th>
+    <th>supplier_declared_dg_hz_regulation3</th>
+    <th>supplier_declared_dg_hz_regulation4</th>
+    <th>supplier_declared_dg_hz_regulation5</th>
+    <th>hazmat_united_nations_regulatory_id</th>
+    <th>safety_data_sheet_url</th>
+    <th>item_volume</th>
+    <th>item_volume_unit_of_measure</th>
+    <th>country_of_origin</th>
+    <th>legal_compliance_certification_expiration_date</th>
+    <th>flash_point</th>
+    <th>warranty_description</th>
+    <th>legal_compliance_certification_date_of_issue</th>
+    <th>external_testing_certification1</th>
+    <th>external_testing_certification2</th>
+    <th>external_testing_certification3</th>
+    <th>external_testing_certification4</th>
+    <th>external_testing_certification5</th>
+    <th>external_testing_certification6</th>
+    <th>legal_compliance_certification_metadata</th>
+    <th>ghs_classification_class1</th>
+    <th>ghs_classification_class2</th>
+    <th>ghs_classification_class3</th>
+    <th>california_proposition_65_compliance_type</th>
+    <th>california_proposition_65_chemical_names1</th>
+    <th>california_proposition_65_chemical_names2</th>
+    <th>california_proposition_65_chemical_names3</th>
+    <th>california_proposition_65_chemical_names4</th>
+    <th>california_proposition_65_chemical_names5</th>
+    <th>merchant_shipping_group_name</th>
+    <th>product_tax_code</th>
+    <th>product_site_launch_date</th>
+    <th>offering_end_date</th>
+    <th>offering_can_be_giftwrapped</th>
+    <th>offering_can_be_gift_messaged</th>
+    <th>item_package_quantity</th>
+    <th>sale_price</th>
+    <th>list_price</th>
+    <th>sale_from_date</th>
+    <th>fulfillment_latency</th>
+    <th>merchant_release_date</th>
+    <th>restock_date</th>
+    <th>max_aggregate_ship_quantity</th>
+    <th>sale_end_date</th>
+    <th>is_discontinued_by_manufacturer</th>
+    <th>max_order_quantity</th>
+    <th>number_of_items</th>
+    <th>offering_start_date</th>
+    <th>business_price</th>
+    <th>quantity_price_type</th>
+    <th>quantity_lower_bound1</th>
+    <th>quantity_price1</th>
+    <th>quantity_lower_bound2</th>
+    <th>quantity_price2</th>
+    <th>quantity_lower_bound3</th>
+    <th>quantity_price3</th>
+    <th>quantity_lower_bound4</th>
+    <th>quantity_price4</th>
+    <th>quantity_lower_bound5</th>
+    <th>quantity_price5</th>
+    <th>national_stock_number</th>
+    <th>unspsc_code</th>
+    <th>pricing_action</th>
+</tr><tr>
+                                        <td>OfficeProducts</td>
+                                        <td>16762</td>
+                                        <td>PrintEZ</td>
+                                        <td></td>
+                                        <td></td>
+                                        <td>Laser 1099 MISC Income, Federal Copy A</td>
+                                        <td>PrintEZ</td>
+                                        <td>TF5110</td>
+                                        <td>blank-purchase-order-forms</td>
+                                        <td></td>
+                                        <td>1000</td>
+										<td>No</td>
+                                        <td>https://www.printez.com/image/cache/data/TF5110-400x400.jpg</td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td>PARENT</td>
+                                        <td></td>
+                                        <td></td><td>Size</td><td>Update</td>
+                                        <td> Item# TF5110
+	 Size: 8 1/2" x 11"
+	 Printed on recycled paper
+	 Federal Copy A
+	 Government approved 20# bond stock
+	</td>
+                                        <td>TF5110</td>
+                                        <td>Item# TF5110
+	</td>
+                                        <td>Size: 8 1/2" x 11"
+	</td>
+                                        <td>Printed on recycled paper
+	</td>
+                                        <td>Federal Copy A
+	</td>
+                                        <td>Government approved 20# bond stock
+	</td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td>Tax Forms</td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+										<td>No</td>
+                                        <td></td>										
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td>A_GEN_NOTAX</td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td>25</td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                    </tr><tr>
+    <td>OfficeProducts</td><td>16762-1-part-100</td><td>PrintEZ</td>
+    <td></td>
+    <td></td>
+    <td>Laser 1099 MISC Income, Federal Copy A</td>
+    <td>PrintEZ</td><td>TF5110-1-part-100</td><td>blank-purchase-order-forms</td>
+    <td>33.49</td>
+    <td>100</td>
+	<td>No</td><td>https://www.printez.com/image/cache/data/TF5110-400x400.jpg</td><td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Child</td>
+    <td>16762</td>
+    <td>Variation</td><td>Size</td><td>Update</td>
+    <td> Item# TF5110
+	 Size: 8 1/2" x 11"
+	 Printed on recycled paper
+	 Federal Copy A
+	 Government approved 20# bond stock
+	</td>
+    <td>TF5110</td>
+    <td>Item# TF5110
+	</td>
+    <td>Size: 8 1/2" x 11"
+	</td>
+    <td>Printed on recycled paper
+	</td>
+    <td>Federal Copy A
+	</td>
+    <td>Government approved 20# bond stock
+	</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Tax Forms</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td><td>1-part-100</td><td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+	<td>No</td>
+    <td></td>	
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>A_GEN_NOTAX</td>
+    <td></td>
+    <td></td>
+    <td>FALSE</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>25</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>OfficeProducts</td><td>16762-1-part-200</td><td>PrintEZ</td>
+    <td></td>
+    <td></td>
+    <td>Laser 1099 MISC Income, Federal Copy A</td>
+    <td>PrintEZ</td><td>TF5110-1-part-200</td><td>blank-purchase-order-forms</td>
+    <td>39.49</td>
+    <td>200</td>
+	<td>No</td><td>https://www.printez.com/image/cache/data/TF5110-400x400.jpg</td><td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Child</td>
+    <td>16762</td>
+    <td>Variation</td><td>Size</td><td>Update</td>
+    <td> Item# TF5110
+	 Size: 8 1/2" x 11"
+	 Printed on recycled paper
+	 Federal Copy A
+	 Government approved 20# bond stock
+	</td>
+    <td>TF5110</td>
+    <td>Item# TF5110
+	</td>
+    <td>Size: 8 1/2" x 11"
+	</td>
+    <td>Printed on recycled paper
+	</td>
+    <td>Federal Copy A
+	</td>
+    <td>Government approved 20# bond stock
+	</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Tax Forms</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td><td>1-part-200</td><td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+	<td>No</td>
+    <td></td>	
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>A_GEN_NOTAX</td>
+    <td></td>
+    <td></td>
+    <td>FALSE</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>25</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>OfficeProducts</td><td>16762-1-part-300</td><td>PrintEZ</td>
+    <td></td>
+    <td></td>
+    <td>Laser 1099 MISC Income, Federal Copy A</td>
+    <td>PrintEZ</td><td>TF5110-1-part-300</td><td>blank-purchase-order-forms</td>
+    <td>44.49</td>
+    <td>300</td>
+	<td>No</td><td>https://www.printez.com/image/cache/data/TF5110-400x400.jpg</td><td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Child</td>
+    <td>16762</td>
+    <td>Variation</td><td>Size</td><td>Update</td>
+    <td> Item# TF5110
+	 Size: 8 1/2" x 11"
+	 Printed on recycled paper
+	 Federal Copy A
+	 Government approved 20# bond stock
+	</td>
+    <td>TF5110</td>
+    <td>Item# TF5110
+	</td>
+    <td>Size: 8 1/2" x 11"
+	</td>
+    <td>Printed on recycled paper
+	</td>
+    <td>Federal Copy A
+	</td>
+    <td>Government approved 20# bond stock
+	</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Tax Forms</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td><td>1-part-300</td><td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+	<td>No</td>
+    <td></td>	
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>A_GEN_NOTAX</td>
+    <td></td>
+    <td></td>
+    <td>FALSE</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>25</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>OfficeProducts</td><td>16762-1-part-400</td><td>PrintEZ</td>
+    <td></td>
+    <td></td>
+    <td>Laser 1099 MISC Income, Federal Copy A</td>
+    <td>PrintEZ</td><td>TF5110-1-part-400</td><td>blank-purchase-order-forms</td>
+    <td>49.49</td>
+    <td>400</td>
+	<td>No</td><td>https://www.printez.com/image/cache/data/TF5110-400x400.jpg</td><td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Child</td>
+    <td>16762</td>
+    <td>Variation</td><td>Size</td><td>Update</td>
+    <td> Item# TF5110
+	 Size: 8 1/2" x 11"
+	 Printed on recycled paper
+	 Federal Copy A
+	 Government approved 20# bond stock
+	</td>
+    <td>TF5110</td>
+    <td>Item# TF5110
+	</td>
+    <td>Size: 8 1/2" x 11"
+	</td>
+    <td>Printed on recycled paper
+	</td>
+    <td>Federal Copy A
+	</td>
+    <td>Government approved 20# bond stock
+	</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Tax Forms</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td><td>1-part-400</td><td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+	<td>No</td>
+    <td></td>	
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>A_GEN_NOTAX</td>
+    <td></td>
+    <td></td>
+    <td>FALSE</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>25</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>OfficeProducts</td><td>16762-1-part-500</td><td>PrintEZ</td>
+    <td></td>
+    <td></td>
+    <td>Laser 1099 MISC Income, Federal Copy A</td>
+    <td>PrintEZ</td><td>TF5110-1-part-500</td><td>blank-purchase-order-forms</td>
+    <td>56.49</td>
+    <td>500</td>
+	<td>No</td><td>https://www.printez.com/image/cache/data/TF5110-400x400.jpg</td><td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Child</td>
+    <td>16762</td>
+    <td>Variation</td><td>Size</td><td>Update</td>
+    <td> Item# TF5110
+	 Size: 8 1/2" x 11"
+	 Printed on recycled paper
+	 Federal Copy A
+	 Government approved 20# bond stock
+	</td>
+    <td>TF5110</td>
+    <td>Item# TF5110
+	</td>
+    <td>Size: 8 1/2" x 11"
+	</td>
+    <td>Printed on recycled paper
+	</td>
+    <td>Federal Copy A
+	</td>
+    <td>Government approved 20# bond stock
+	</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Tax Forms</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td><td>1-part-500</td><td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+	<td>No</td>
+    <td></td>	
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>A_GEN_NOTAX</td>
+    <td></td>
+    <td></td>
+    <td>FALSE</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>25</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>OfficeProducts</td><td>16762-1-part-600</td><td>PrintEZ</td>
+    <td></td>
+    <td></td>
+    <td>Laser 1099 MISC Income, Federal Copy A</td>
+    <td>PrintEZ</td><td>TF5110-1-part-600</td><td>blank-purchase-order-forms</td>
+    <td>63.49</td>
+    <td>600</td>
+	<td>No</td><td>https://www.printez.com/image/cache/data/TF5110-400x400.jpg</td><td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Child</td>
+    <td>16762</td>
+    <td>Variation</td><td>Size</td><td>Update</td>
+    <td> Item# TF5110
+	 Size: 8 1/2" x 11"
+	 Printed on recycled paper
+	 Federal Copy A
+	 Government approved 20# bond stock
+	</td>
+    <td>TF5110</td>
+    <td>Item# TF5110
+	</td>
+    <td>Size: 8 1/2" x 11"
+	</td>
+    <td>Printed on recycled paper
+	</td>
+    <td>Federal Copy A
+	</td>
+    <td>Government approved 20# bond stock
+	</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Tax Forms</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td><td>1-part-600</td><td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+	<td>No</td>
+    <td></td>	
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>A_GEN_NOTAX</td>
+    <td></td>
+    <td></td>
+    <td>FALSE</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>25</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>OfficeProducts</td><td>16762-1-part-700</td><td>PrintEZ</td>
+    <td></td>
+    <td></td>
+    <td>Laser 1099 MISC Income, Federal Copy A</td>
+    <td>PrintEZ</td><td>TF5110-1-part-700</td><td>blank-purchase-order-forms</td>
+    <td>68.49</td>
+    <td>700</td>
+	<td>No</td><td>https://www.printez.com/image/cache/data/TF5110-400x400.jpg</td><td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Child</td>
+    <td>16762</td>
+    <td>Variation</td><td>Size</td><td>Update</td>
+    <td> Item# TF5110
+	 Size: 8 1/2" x 11"
+	 Printed on recycled paper
+	 Federal Copy A
+	 Government approved 20# bond stock
+	</td>
+    <td>TF5110</td>
+    <td>Item# TF5110
+	</td>
+    <td>Size: 8 1/2" x 11"
+	</td>
+    <td>Printed on recycled paper
+	</td>
+    <td>Federal Copy A
+	</td>
+    <td>Government approved 20# bond stock
+	</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Tax Forms</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td><td>1-part-700</td><td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+	<td>No</td>
+    <td></td>	
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>A_GEN_NOTAX</td>
+    <td></td>
+    <td></td>
+    <td>FALSE</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>25</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>OfficeProducts</td><td>16762-1-part-800</td><td>PrintEZ</td>
+    <td></td>
+    <td></td>
+    <td>Laser 1099 MISC Income, Federal Copy A</td>
+    <td>PrintEZ</td><td>TF5110-1-part-800</td><td>blank-purchase-order-forms</td>
+    <td>74.49</td>
+    <td>800</td>
+	<td>No</td><td>https://www.printez.com/image/cache/data/TF5110-400x400.jpg</td><td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Child</td>
+    <td>16762</td>
+    <td>Variation</td><td>Size</td><td>Update</td>
+    <td> Item# TF5110
+	 Size: 8 1/2" x 11"
+	 Printed on recycled paper
+	 Federal Copy A
+	 Government approved 20# bond stock
+	</td>
+    <td>TF5110</td>
+    <td>Item# TF5110
+	</td>
+    <td>Size: 8 1/2" x 11"
+	</td>
+    <td>Printed on recycled paper
+	</td>
+    <td>Federal Copy A
+	</td>
+    <td>Government approved 20# bond stock
+	</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Tax Forms</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td><td>1-part-800</td><td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+	<td>No</td>
+    <td></td>	
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>A_GEN_NOTAX</td>
+    <td></td>
+    <td></td>
+    <td>FALSE</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>25</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>OfficeProducts</td><td>16762-1-part-900</td><td>PrintEZ</td>
+    <td></td>
+    <td></td>
+    <td>Laser 1099 MISC Income, Federal Copy A</td>
+    <td>PrintEZ</td><td>TF5110-1-part-900</td><td>blank-purchase-order-forms</td>
+    <td>79.49</td>
+    <td>900</td>
+	<td>No</td><td>https://www.printez.com/image/cache/data/TF5110-400x400.jpg</td><td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Child</td>
+    <td>16762</td>
+    <td>Variation</td><td>Size</td><td>Update</td>
+    <td> Item# TF5110
+	 Size: 8 1/2" x 11"
+	 Printed on recycled paper
+	 Federal Copy A
+	 Government approved 20# bond stock
+	</td>
+    <td>TF5110</td>
+    <td>Item# TF5110
+	</td>
+    <td>Size: 8 1/2" x 11"
+	</td>
+    <td>Printed on recycled paper
+	</td>
+    <td>Federal Copy A
+	</td>
+    <td>Government approved 20# bond stock
+	</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Tax Forms</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td><td>1-part-900</td><td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+	<td>No</td>
+    <td></td>	
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>A_GEN_NOTAX</td>
+    <td></td>
+    <td></td>
+    <td>FALSE</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>25</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>OfficeProducts</td><td>16762-1-part-1000</td><td>PrintEZ</td>
+    <td></td>
+    <td></td>
+    <td>Laser 1099 MISC Income, Federal Copy A</td>
+    <td>PrintEZ</td><td>TF5110-1-part-1000</td><td>blank-purchase-order-forms</td>
+    <td>88.49</td>
+    <td>1000</td>
+	<td>No</td><td>https://www.printez.com/image/cache/data/TF5110-400x400.jpg</td><td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Child</td>
+    <td>16762</td>
+    <td>Variation</td><td>Size</td><td>Update</td>
+    <td> Item# TF5110
+	 Size: 8 1/2" x 11"
+	 Printed on recycled paper
+	 Federal Copy A
+	 Government approved 20# bond stock
+	</td>
+    <td>TF5110</td>
+    <td>Item# TF5110
+	</td>
+    <td>Size: 8 1/2" x 11"
+	</td>
+    <td>Printed on recycled paper
+	</td>
+    <td>Federal Copy A
+	</td>
+    <td>Government approved 20# bond stock
+	</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Tax Forms</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td><td>1-part-1000</td><td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+	<td>No</td>
+    <td></td>	
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>A_GEN_NOTAX</td>
+    <td></td>
+    <td></td>
+    <td>FALSE</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>25</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>OfficeProducts</td><td>16762-1-part-1500</td><td>PrintEZ</td>
+    <td></td>
+    <td></td>
+    <td>Laser 1099 MISC Income, Federal Copy A</td>
+    <td>PrintEZ</td><td>TF5110-1-part-1500</td><td>blank-purchase-order-forms</td>
+    <td>127.49</td>
+    <td>1500</td>
+	<td>No</td><td>https://www.printez.com/image/cache/data/TF5110-400x400.jpg</td><td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Child</td>
+    <td>16762</td>
+    <td>Variation</td><td>Size</td><td>Update</td>
+    <td> Item# TF5110
+	 Size: 8 1/2" x 11"
+	 Printed on recycled paper
+	 Federal Copy A
+	 Government approved 20# bond stock
+	</td>
+    <td>TF5110</td>
+    <td>Item# TF5110
+	</td>
+    <td>Size: 8 1/2" x 11"
+	</td>
+    <td>Printed on recycled paper
+	</td>
+    <td>Federal Copy A
+	</td>
+    <td>Government approved 20# bond stock
+	</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Tax Forms</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td><td>1-part-1500</td><td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+	<td>No</td>
+    <td></td>	
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>A_GEN_NOTAX</td>
+    <td></td>
+    <td></td>
+    <td>FALSE</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>25</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>OfficeProducts</td><td>16762-1-part-175000</td><td>PrintEZ</td>
+    <td></td>
+    <td></td>
+    <td>Laser 1099 MISC Income, Federal Copy A</td>
+    <td>PrintEZ</td><td>TF5110-1-part-175000</td><td>blank-purchase-order-forms</td>
+    <td>7338.5</td>
+    <td>175000</td>
+	<td>No</td><td>https://www.printez.com/image/cache/data/TF5110-400x400.jpg</td><td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Child</td>
+    <td>16762</td>
+    <td>Variation</td><td>Size</td><td>Update</td>
+    <td> Item# TF5110
+	 Size: 8 1/2" x 11"
+	 Printed on recycled paper
+	 Federal Copy A
+	 Government approved 20# bond stock
+	</td>
+    <td>TF5110</td>
+    <td>Item# TF5110
+	</td>
+    <td>Size: 8 1/2" x 11"
+	</td>
+    <td>Printed on recycled paper
+	</td>
+    <td>Federal Copy A
+	</td>
+    <td>Government approved 20# bond stock
+	</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Tax Forms</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td><td>1-part-175000</td><td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+	<td>No</td>
+    <td></td>	
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>A_GEN_NOTAX</td>
+    <td></td>
+    <td></td>
+    <td>FALSE</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>25</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr><tr>
+    <td>OfficeProducts</td><td>16762-1-part-200000</td><td>PrintEZ</td>
+    <td></td>
+    <td></td>
+    <td>Laser 1099 MISC Income, Federal Copy A</td>
+    <td>PrintEZ</td><td>TF5110-1-part-200000</td><td>blank-purchase-order-forms</td>
+    <td>8218.49</td>
+    <td>200000</td>
+	<td>No</td><td>https://www.printez.com/image/cache/data/TF5110-400x400.jpg</td><td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Child</td>
+    <td>16762</td>
+    <td>Variation</td><td>Size</td><td>Update</td>
+    <td> Item# TF5110
+	 Size: 8 1/2" x 11"
+	 Printed on recycled paper
+	 Federal Copy A
+	 Government approved 20# bond stock
+	</td>
+    <td>TF5110</td>
+    <td>Item# TF5110
+	</td>
+    <td>Size: 8 1/2" x 11"
+	</td>
+    <td>Printed on recycled paper
+	</td>
+    <td>Federal Copy A
+	</td>
+    <td>Government approved 20# bond stock
+	</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Tax Forms</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td><td>1-part-200000</td><td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+	<td>No</td>
+    <td></td>	
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>A_GEN_NOTAX</td>
+    <td></td>
+    <td></td>
+    <td>FALSE</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>25</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr></table>

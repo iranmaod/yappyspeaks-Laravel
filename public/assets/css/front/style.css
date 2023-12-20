@@ -1,0 +1,66 @@
+*{
+    padding: 0px;
+    margin: 0 auto;
+}
+body {
+    font-family: Helvetica;
+}
+@media screen and (min-width: 1100px){
+     .Main-Section > h1, h4, p {
+    line-height: 86px;
+    font-size: 50px !important;
+  }
+  .footer_mobile img {
+    width: 80px;
+    height: 80px;
+}
+}
+.Main-Section p {
+    font-size: 12px;
+    font-family: Helvetica;
+    line-height: 25px;
+}
+.Main-Section h4 {
+    font-family: Helvetica;
+    font-size: 17px;
+}
+.Main-Section h1 {
+    padding-top: 18px;
+    font-size: 25px;
+    font-weight: 500;
+}
+.Main-Section {
+    padding: 0px 36px;
+}
+#content {
+    background-size: cover;
+    height: 100vh;
+    height: 100dvh;
+    background-repeat: no-repeat;
+    color: white;
+    align-items: center;
+    display: flex;
+    background-position: top center;
+}
+footer {
+    display: block;
+    position: absolute;
+    bottom: 5%;
+    text-align: center;
+    width: 100%;
+  
+}
+.footer_mobile li {   
+    list-style-type: none;
+    
+}
+  .footer_mobile{
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+  }
+ 
+
+ 
+
+  
