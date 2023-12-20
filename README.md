@@ -1,1 +1,1 @@
-# yappyspeaks-variation-system
+# Variation management system in Laravel
